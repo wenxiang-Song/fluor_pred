@@ -4,15 +4,19 @@
 
 ## File Description
 * Data aggregation  
-  The directory contains our compiled dye data as well as the collected xanthene  and cyanine datasets.
+  The directory contains our compiled dye data as well as the collected xanthene  and cyanine datasets.  
+    
 * MTATFP  
-  The main code for this project, including training data and code for three types of predictive models.
+  The main code for this project, including training data and code for three types of predictive models.  
+    
 * GUI  
-  The user interaction code for Flour-predictor. Once the environment is set up, simply run GUI.py to execute it, and the output data will be saved in the Results folder.
+  The user interaction code for Flour-predictor. Once the environment is set up, simply run GUI.py to execute it, and the output data will be saved in the Results folder.  
+    
 * Single-task_and_ML_models  
-  Single-task models and machine learning code for comparison with the MTATFP model.
+  Single-task models and machine learning code for comparison with the MTATFP model.  
+    
 * User Guide.pdf  
-  The specific usage method of Flour-predictor is based on the runtime environment.
+  The specific usage method of Flour-predictor is based on the runtime environment.  
 
 ## Creation of the GUI Usage Environment:
 * conda create -n dye37 python=3.7
@@ -24,7 +28,9 @@
 * pip install rdkit-pypi
 * pip install dgl==1.1.2+cu117 -f https://data.dgl.ai/wheels/cu117/repo.html
 * pip install packaging  
-___In GUI.py, jump to the code in attentivefp.py through AttentiveFPGNN, rename copy_edge to copy_e; rename src_mul_edge to u_mul_e. After the installation is complete, you can run it directly___
+___In GUI.py, jump to the code in attentivefp.py through AttentiveFPGNN, rename copy_edge to copy_e; rename src_mul_edge to u_mul_e. After the installation is complete, you can run it directly___  
+  
+The software interface is shown as follows, for specific usage, please refer to the User Guide.pdf.
 ![image](https://github.com/17855461143/flour_pred/blob/main/figures/1.png?raw=true)
 
 ## Data Usage Distribution
