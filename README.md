@@ -16,7 +16,10 @@
   Single-task models and machine learning code for comparison with the MTATFP model.  
     
 * User Guide.pdf  
-  The specific usage method of Flour-predictor is based on the runtime environment.  
+  The specific usage method of Flour-predictor is based on the runtime environment.
+  
+* demo_video.mp4  
+  The usage demonstration of Flour-predictor: users simply need to replace the target molecules and solvents.
 
 ## Creation of the GUI Usage Environment:
 * conda create -n dye37 python=3.7
