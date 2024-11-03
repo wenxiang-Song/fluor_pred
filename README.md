@@ -1,6 +1,6 @@
 # Fluorescent Dye Database and Prediction Tool —— Flour-predictor
 ## The main framework of this work.
-![image]([https://github.com/17855461143/test/blob/main/Figure1.png?raw=true](https://github.com/17855461143/flour_pred/blob/main/figures/2.png?raw=true))
+![image](https://github.com/17855461143/flour_pred/blob/main/figures/2.png?raw=true)
 
 ## File Description
 * Data aggregation  
@@ -24,7 +24,7 @@
 * pip install dgl==1.1.2+cu117 -f https://data.dgl.ai/wheels/cu117/repo.html
 * pip install packaging  
 ___In GUI.py, jump to the code in attentivefp.py through AttentiveFPGNN, rename copy_edge to copy_e; rename src_mul_edge to u_mul_e. After the installation is complete, you can run it directly___
-![image]([https://github.com/17855461143/test/blob/main/Figure1.png?raw=true](https://github.com/17855461143/flour_pred/blob/main/figures/1.png?raw=true))
+![image](https://github.com/17855461143/test/blob/main/1.png?raw=true)
 
 ## Data Usage Distribution
 ![image]([https://github.com/17855461143/test/blob/main/Figure1.png?raw=true](https://github.com/17855461143/flour_pred/blob/main/figures/3.png?raw=true))
