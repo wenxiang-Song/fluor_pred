@@ -30,7 +30,8 @@
 * pip install packaging  
 ___In GUI.py, jump to the code in attentivefp.py through AttentiveFPGNN, rename copy_edge to copy_e; rename src_mul_edge to u_mul_e. After the installation is complete, you can run it directly___  
   
-The software interface is shown as follows, for specific usage, please refer to the User Guide.pdf.
+## The software interface is shown as follows
+for specific usage, please refer to the User Guide.pdf.
 ![image](https://github.com/17855461143/flour_pred/blob/main/figures/1.png?raw=true)
 
 ## Data Usage Distribution
