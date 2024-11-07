@@ -30,7 +30,8 @@
 * pip install dgllife==0.2.8
 * pip install rdkit-pypi
 * pip install dgl==1.1.2+cu117 -f https://data.dgl.ai/wheels/cu117/repo.html
-* pip install packaging  
+* pip install packaging
+  
 There is an error in the AttentiveFP library that needs to be corrected. Here are the steps for the modification: ___In GUI.py, jump to the code in attentivefp.py through AttentiveFPGNN, rename copy_edge to copy_e; rename src_mul_edge to u_mul_e. After the installation is complete, you can run it directly___  
   
 ## The software interface is shown as follows
