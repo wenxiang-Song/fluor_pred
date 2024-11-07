@@ -1,4 +1,4 @@
-# Fluorescent Dye Database and Prediction Tool —— Flour-predictor
+# Fluorescent Dye Retrieval and Prediction Tool —— Flour-predictor
 ## The main framework of this work.
 ![image](https://github.com/17855461143/flour_pred/blob/main/figures/2.png?raw=true)
 
