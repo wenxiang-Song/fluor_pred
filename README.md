@@ -1,6 +1,6 @@
 # Fluorescent Dye Retrieval and Prediction Tool —— Fluor-predictor
 ## The main framework of this work.
-![image](https://github.com/17855461143/flour_pred/blob/main/figures/2.png?raw=true)
+![image](https://github.com/17855461143/fluor_pred/blob/main/figures/2.png?raw=true)
 
 ## File Description
 * Data aggregation  
@@ -36,14 +36,14 @@ There is an error in the AttentiveFP library that needs to be corrected. Here ar
   
 ## The software interface is shown as follows
 for specific usage, please refer to the User Guide.pdf.
-![image](https://github.com/17855461143/flour_pred/blob/main/figures/1_main.png?raw=true)
+![image](https://github.com/17855461143/fluor_pred/blob/main/figures/1.png?raw=true)
 
 ## Data Usage Distribution
-![image](https://github.com/17855461143/flour_pred/blob/main/figures/3.png?raw=true)
+![image](https://github.com/17855461143/fluor_pred/blob/main/figures/3.png?raw=true)
 
 ## Atom Weight Visualization
 In the MTATFP folder, we have retained visualization code for all scripts, allowing users to display visualized weights and also to regenerate training files for new data visualization.
-![image](https://github.com/17855461143/flour_pred/blob/main/figures/4.png?raw=true)
+![image](https://github.com/17855461143/fluor_pred/blob/main/figures/4.png?raw=true)
 
 ## Usage Statement
 Fluor-predictor is a freely available dye database and dye prediction tool. You have the right to install and run the software on your personal computer, as well as to copy and modify the software to meet your personal learning and research needs. However, you are not allowed to use the software for any commercial activities, including but not limited to selling, renting, lending the software or any derivative products of the software, or using the software in any commercial services or products.
