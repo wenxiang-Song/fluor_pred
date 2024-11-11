@@ -1,4 +1,4 @@
-# Fluorescent Dye Retrieval and Prediction Tool —— Flour-predictor
+# Fluorescent Dye Retrieval and Prediction Tool —— Fluor-predictor
 ## The main framework of this work.
 ![image](https://github.com/17855461143/flour_pred/blob/main/figures/2.png?raw=true)
 
@@ -10,16 +10,16 @@
   The main code for this project, including training data and code for three types of predictive models.  
     
 * GUI  
-  The user interaction code for Flour-predictor. Once the environment is set up, simply run GUI.py to execute it, and the output data will be saved in the Results folder.  
+  The user interaction code for Fluor-predictor. Once the environment is set up, simply run GUI.py to execute it, and the output data will be saved in the Results folder.  
     
 * Single-task_and_ML_models  
   Single-task models and machine learning code for comparison with the MTATFP model.  
     
 * User Guide.pdf  
-  The specific usage method of Flour-predictor is based on the runtime environment.
+  The specific usage method of Fluor-predictor is based on the runtime environment.
   
 * demo_video.mp4  
-  The usage demonstration of Flour-predictor: users simply need to replace the target molecules and solvents.
+  The usage demonstration of Fluor-predictor: users simply need to replace the target molecules and solvents.
 
 ## Creation of the GUI Usage Environment:
 * conda create -n dye37 python=3.7
@@ -46,4 +46,4 @@ In the MTATFP folder, we have retained visualization code for all scripts, allow
 ![image](https://github.com/17855461143/flour_pred/blob/main/figures/4.png?raw=true)
 
 ## Usage Statement
-Flour-predictor is a freely available dye database and dye prediction tool. You have the right to install and run the software on your personal computer, as well as to copy and modify the software to meet your personal learning and research needs. However, you are not allowed to use the software for any commercial activities, including but not limited to selling, renting, lending the software or any derivative products of the software, or using the software in any commercial services or products.
+Fluor-predictor is a freely available dye database and dye prediction tool. You have the right to install and run the software on your personal computer, as well as to copy and modify the software to meet your personal learning and research needs. However, you are not allowed to use the software for any commercial activities, including but not limited to selling, renting, lending the software or any derivative products of the software, or using the software in any commercial services or products.
