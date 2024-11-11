@@ -3,16 +3,16 @@
 ![image](https://github.com/17855461143/fluor_pred/blob/main/figures/2.png?raw=true)
 
 ## File Description
-* Data aggregation  
+* Data aggregation [folder]  
   The directory contains our compiled dye data as well as the collected xanthene  and cyanine datasets.  
     
-* MTATFP  
+* MTATFP [folder]  
   The main code for this project, including training data and code for three types of predictive models.  
     
-* GUI  
+* GUI [folder]  
   The user interaction code for Fluor-predictor. Once the environment is set up, simply run GUI.py to execute it, and the output data will be saved in the Results folder.  
     
-* Single-task_and_ML_models  
+* Single-task_and_ML_models [folder]  
   Single-task models and machine learning code for comparison with the MTATFP model.  
     
 * User Guide.pdf  
@@ -21,7 +21,8 @@
 * demo_video.mp4  
   The usage demonstration of Fluor-predictor: users simply need to replace the target molecules and solvents.
 
-## Creation of the GUI Usage Environment:
+## Creation of the GUI Usage Environment:  
+Please follow these steps to create the working environment.  
 * conda create -n dye37 python=3.7
 * conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
 * conda install xlsxwriter
