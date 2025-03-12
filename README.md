@@ -33,7 +33,6 @@ Please follow these steps to create the working environment.
 * pip install dgl==1.1.2+cu117 -f https://data.dgl.ai/wheels/cu117/repo.html
 * pip install packaging
   
-There is an error in the AttentiveFP library that needs to be corrected. Here are the steps for the modification: ___In GUI.py, jump to the code in attentivefp.py through AttentiveFPGNN, rename copy_edge to copy_e; rename src_mul_edge to u_mul_e. After the installation is complete, you can run it directly___  
   
 ## The software interface is shown as follows:
 for specific usage, please refer to the User Guide.pdf.
