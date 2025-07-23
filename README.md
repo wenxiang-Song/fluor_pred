@@ -21,16 +21,18 @@
 * demo_video.mp4  
   The usage demonstration of Fluor-predictor: users simply need to replace the target molecules and solvents.
 
-## Creation of the GUI Usage Environment:  
+## Creation of the GUI Usage Environment: 
+## We provide an updated web prediction tool for free use: 
+https://lmmd.ecust.edu.cn/Fluor-tools/
+
 Please follow these steps to create the working environment.  
-* conda create -n dye37 python=3.7
-* conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
+* conda install pytorch torchvision torchaudio pytorch-cuda
 * conda install xlsxwriter
-* conda install -c anaconda scikit-learn
-* pip install pandas==1.3.0
-* pip install dgllife==0.2.8
+* conda install scikit-learn
+* pip install pandas
+* pip install dgllife
 * pip install rdkit-pypi
-* pip install dgl==1.1.2+cu117 -f https://data.dgl.ai/wheels/cu117/repo.html
+* pip install dgl
 * pip install packaging
   
   
