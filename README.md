@@ -22,8 +22,6 @@
   The usage demonstration of Fluor-predictor: users simply need to replace the target molecules and solvents.
 
 ## Creation of the GUI Usage Environment: 
-## We provide an updated web prediction tool for free use: 
-https://lmmd.ecust.edu.cn/Fluor-tools/
 
 Please follow these steps to create the working environment.  
 * conda install pytorch torchvision torchaudio pytorch-cuda
