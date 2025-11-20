@@ -1,4 +1,7 @@
 # Fluorescent Dye Retrieval and Prediction Tool —— Fluor-predictor
+## NEWs
+Our latest work is available at https://pubs.rsc.org/en/content/articlelanding/2025/dd/d5dd00402k. We have developed a comprehensive platform that integrates dye-property prediction and dye-structure optimization. The tool can be accessed directly through the website https://lmmd.ecust.edu.cn/Fluor-tools/.
+
 ## The main framework of this work.
 ![image](https://github.com/wenxiang-Song/fluor_pred/blob/main/figures/2.png?raw=true)
 
